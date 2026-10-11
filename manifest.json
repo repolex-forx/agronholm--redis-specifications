@@ -1,0 +1,25 @@
+{
+  "manifest_version": "1.0",
+  "org": "agronholm",
+  "repo": "redis-specifications",
+  "versions": [
+    {
+      "commit": "7bd21a07658a904b0507d808e52cbe7868cb5018",
+      "parsed_at": "2026-10-11T19:25:12.683105+00:00",
+      "filetree": "filetree/7bd21a07658a904b0507d808e52cbe7868cb5018.nq.gz",
+      "blobs": [
+        "blob/392c94fc0f7607123faaee17268c59fb1fb124a3.nq.gz",
+        "blob/49af88cfe01f283449e989813dd5acce974c365e.nq.gz",
+        "blob/a65ddc4f882eacaf71dd78609952e53b9d14792f.nq.gz",
+        "blob/3f27b8068f12148b3d8ff8d99073c23a71484ffd.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/2788ed1b20e4a502a504ec33f075acddd1a5548a.nq.gz",
+        "blob/8cea3f29d3373b9f3c7be1891007d0b0ae450ffd.nq.gz",
+        "blob/2e9b6e890a6a04b54f804c5d00b6203be29ccd1a.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
