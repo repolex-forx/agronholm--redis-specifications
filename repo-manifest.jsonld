@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/agronholm/redis-specifications/commit/7bd21a07658a904b0507d808e52cbe7868cb5018",
       "git:hexsha": "7bd21a07658a904b0507d808e52cbe7868cb5018",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-11T19:27:05.219591+00:00"
     }
   ]
 }
