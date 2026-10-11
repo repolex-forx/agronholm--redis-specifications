@@ -1,0 +1,11 @@
+{
+  "org": "agronholm",
+  "repo": "redis-specifications",
+  "versions": [
+    {
+      "commit": "7bd21a07658a904b0507d808e52cbe7868cb5018",
+      "tag": "",
+      "parsed_at": "2026-10-11T19:27:05.220027+00:00"
+    }
+  ]
+}
